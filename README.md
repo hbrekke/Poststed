@@ -17,4 +17,4 @@ Du må linke til selve filen og vise til funksjonen "postnummer()"
 * HTML
 
 ## Lisens
-[MIT-Lisens](licence.md)
+[MIT-Lisens](LICENSE.md)
